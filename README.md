@@ -1,2 +1,6 @@
-# GCMS-Henrique-Ven-ncio
-Repositório da Disciplina de Gerência de Configuração e Mudança de Software 22.2 - IFPE
+# GCMS-2022-2
+Repositório da turma de GCMS do IFPE-Recife, 2022.2
+
+## Colaboradores
+Coloque seu nome abaixo se você é um dos colaboradores do repositório:
+* Henrique Venâncio (dono, @hvenanc)
